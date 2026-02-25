@@ -1,0 +1,19 @@
+# OS generated files #
+######################
+.directory
+.gdb_history
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+#########################################
+# Editor temporary/working/backup files #
+.venv/*
+.vscode/*
+.vscode/settings.json
+
+# Documentation generated files #
+#################################
+# sphinx build directory
+docs/build

@@ -1,0 +1,11 @@
+[project]
+name = "handbook"
+description "GC CUNY CS handbook"
+authors = [
+    {name="Hannah Aizenman", email="haizenman@gmail.com"}
+]
+version = "spring 2026"
+readme = "readme.md"
+dependencies = [
+  "myst-parser",
+]
