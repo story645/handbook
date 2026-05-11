@@ -1,11 +1,13 @@
 [project]
 name = "handbook"
-description "GC CUNY CS handbook"
+description = "GC CUNY CS handbook"
 authors = [
     {name="Hannah Aizenman", email="haizenman@gmail.com"}
 ]
 version = "spring 2026"
 readme = "readme.md"
+license = "CC-BY-4.0"
 dependencies = [
-  "myst-parser",
-]
+  "myst-parser", 
+  "mystmd", 
+  "sphinx-design"]
