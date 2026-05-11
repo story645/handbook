@@ -17,3 +17,6 @@ Thumbs.db
 #################################
 # sphinx build directory
 docs/build
+
+# MyST build outputs
+_build
