@@ -7,56 +7,33 @@
 - [ ] Csc 84040 Data Mining
 :::
 
-:::::{card} Elective Courses (12 credits)
-MSc students are required to take __4__ elective courses:
+:::{card} Elective Courses (12 credits)
+MSc students are required to take an additional __4__ elective courses:
+- [ ] ___________________________
+- [ ] ___________________________
+- [ ] ___________________________
+- [ ] ___________________________
 
-::::{grid} 2
-
-:::{card} Analytics (6 credits)
-Choose __2__ courses focused on Analytics:
-- [ ] ______________
-- [ ] ______________
+Can be any CSc course __except__ CSc 79000 (ind study), CSc 80010 (survey), CSc 80020 (research), and CSc 90000 (dissertation)
 :::
-
-:::{card} Applications (6 credits)
-Choose __2__ courses focused on Applications:
-- [ ] ______________
-- [ ] ______________
-:::
-::::
-<!--> Figure out criteria for either/both</-->
-:::::
 
 
 :::::{card} Capstone (6 Credits)
-<!--> Find where folks can find capstone/internship</-->
+Capstones must engage with the computational content taught in the MSc in Data Science and be approved by the program:
+
 ::::{grid} 2
 :::{card} Project
 - [ ] CSc 86180 Project I
 - [ ] CSc 86190 Project II 
 
-Requires approval from the professor who will be supervising the capstone project.
+The student and CS faculty advising the project must submit a description of the project to the MSc in Data Science program office for approval by the Director of the MSc in Data Science. 
 :::
 
 :::{card} Internship
 - [ ] CSc 86210 Internship
 
-Requires approval from the Deputy Director of the MSc in Data Science. 
+The student must submit a description of the internship to the Deputy Director of the MSc in Data Science for approval. 
 :::
 ::::
-
-Capstones must be approved by:
-
-::::{grid} 2
-:::{card} Project
-CS faculty advising the project
-:::
-
-:::{card} Internship
-Deputy Director of the MSc in Data Science
-:::
-::::
-
-
 
 :::::
