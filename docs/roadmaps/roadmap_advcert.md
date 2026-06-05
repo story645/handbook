@@ -1,4 +1,4 @@
-# AdvCert Data Science
+# Advanced Certificate
 
 :::{include} admissions_adv_msc.md
 :::
