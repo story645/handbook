@@ -1,5 +1,5 @@
 # PhD Computer Science
-F
+
 ## First Exam
 	CSc 70010 Algorithms
 	One of CSc 70010, 73010, 71010, 75100 (Algorithms and Theory)

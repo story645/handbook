@@ -1,5 +1,8 @@
 # AdvCert Data Science
 
+:::{include} admissions_adv_msc.md
+:::
+
 :::{card} Required Courses (12 credits)
 - [ ] CSc 74020 Machine Learning
 - [ ] CSc 83060 Data Visualization
