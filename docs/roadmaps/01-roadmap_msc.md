@@ -1,14 +1,11 @@
 # MSc Data Science
 
-:::{include} admissions_adv_msc.md
+:::{include} ../fragments/adv_msc_admissions.md
 :::
 
-:::{card} Required Courses (12 credits)
-- [ ] CSc 74020 Machine Learning
-- [ ] CSc 83060 Data Visualization
-- [ ] CSc 84030 Big Data Analytics
-- [ ] Csc 84040 Data Mining
+:::{include} ../fragments/adv_msc_core.md
 :::
+
 
 :::{card} Elective Courses (12 credits)
 MSc students are required to take an additional __4__ elective courses:
