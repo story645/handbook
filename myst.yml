@@ -18,6 +18,8 @@ project:
     
 site:
   template: book-theme
+  nav: 
+    - title: GC Computer Science Student Handbook
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png

@@ -31,7 +31,11 @@ Students who wish to voluntarily withdraw from the Program must submit a Request
 
 # Tuition
 
-The value of the tuition paid by the Graduate Center on behalf of the students as part of their fellowship is dependent on the number of credits of graduate work completed. This includes credit for courses taken as a student in the Ph.D. Program in Chemistry as well as any credit for graduate courses taken elsewhere for credit.
+The value of the tuition paid by the Graduate Center on behalf of the students as part of their fellowship is dependent on the number of credits of graduate work completed. This includes credit for courses taken as a student in the Ph.D. Program in Computer Science as well as any credit for graduate courses taken elsewhere for credit. 
+
+:::{important}
+Tuition support is **only** granted for the Fall and Spring semesters. Tuition support is not provided for courses taken during the Winter and Summer semesters. 
+:::
 
 Each student starts as a Level I student for tuition purposes.  Advancement to Level II tuition requires a minimum of 45 earned credits of graduate work and successful completion of the First Examination requirement. Advancement from Level I to Level II is automatic.  Incomplete grades do not count toward the total 45 credits earned.  Students who are making good progress towards their degree are expected to advance to Level II at the end of their third semester of study.  Student who transfer in graduate credits may advance at the end of their second semester of study. 
 
@@ -42,4 +46,4 @@ Your bill each semester should reflect your correct tuition level.  If it does n
 
 # Fees
 
-Student are responsible for any campus-based fees including, but not limited to, activity fees, technology fees and consolidated services fees. The fees imposed are not covered by the fellowship.
+Student are responsible for any campus-based fees including, but not limited to, activity fees, technology fees and consolidated services fees. The fees imposed are not covered by any fellowship.
